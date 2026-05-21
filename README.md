@@ -166,12 +166,21 @@ Additional source code, SQL queries, and ETL scripts used throughout the project
 ![Architecture] (images/LayoffArchitecture.png)
 
 ### Amazon S3 Storage
+![Bucket](images/LayoffBucket1.png)
 
 ### AWS Glue ETL
+![Role](images/GlueRole1.png)
 
+![Crawler](images/GlueCrawlers1.png)
+
+![Job](images/GlueJob1.png)
+
+![ETL](mages/VisualETL1.png)
 
 ### Athena SQL Queries
+![Query1](images/AthenaQuery1.png)
 
+![Query2](images/AthenaQuery2.png)
 
 ## Power BI Dashboard
 
@@ -182,6 +191,7 @@ Additional source code, SQL queries, and ETL scripts used throughout the project
 ![Automation](images/WorkforceAutomationInsights.png)
 
 ### Tech Hiring Market Analysis
+![Hiring](images/Hiring/and/Workforce/Trends.png)
 
 # Conclusion
 
