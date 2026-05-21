@@ -1,5 +1,5 @@
 
-# Tech Workforce & AI IMpact Dashboard
+# Tech Workforce & AI Impact Dashboard
 
 # Introduction & Goals
   This project analyzes workforce transformation trends across the technology industry, with a focus on layoffs, hiring demand, AI adoption, automation impact, and workforce stability from 2024–2026. The goal of the project was to build an end-to-end analytics solution capable of transforming raw workforce data into interactive business intelligence dashboards that provide actionable insights into changing labor market conditions within the tech sector.
