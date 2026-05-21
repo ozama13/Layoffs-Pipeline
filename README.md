@@ -191,7 +191,7 @@ Additional source code, SQL queries, and ETL scripts used throughout the project
 ![Automation](images/WorkforceAutomationInsights.png)
 
 ### Tech Hiring Market Analysis
-![Hiring](images/Hiring/and/Workforce/Trends.png)
+![Hiring](images/Hiring and Workforce Trends.png)
 
 # Conclusion
 
