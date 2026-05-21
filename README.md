@@ -45,7 +45,9 @@ Overall, this project demonstrates the complete lifecycle of a modern analytics 
 
 # The Data Set
 
-data/tech_layoffs_hiring_trends_elite_v2.csv
+[Download the Workforce Dataset](data/tech_layoffs_hiring_trends_elite_v2.csv)
+
+[From Kaggle](https://www.kaggle.com/datasets/amaymishra11/tech-layoffs-and-hiring-trends-2026)
 
 The dataset used in this project focuses on workforce transformation trends within the technology industry between 2024 and 2026. It contains information related to layoffs, hiring demand, AI adoption levels, automation impact, job security, salary budget changes, remote work percentages, and workforce reduction drivers across multiple industries and countries.
 
