@@ -160,9 +160,6 @@ Additional source code, SQL queries, and ETL scripts used throughout the project
 
 ## Architecture
 
-# Demo
-
-## Architecture
 
 ## AWS Pipeline
 
