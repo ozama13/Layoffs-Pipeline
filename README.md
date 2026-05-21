@@ -63,6 +63,22 @@ Amazon S3 was used as the cloud storage layer for the project. Raw datasets, cur
 
 https://aws.amazon.com/s3/
 
+--
+
+## IAM 
+
+IAM roles and policies were configured to allow secure communication between AWS services used throughout the analytics pipeline.
+
+Permissions included:
+- AWS Glue access to Amazon S3
+- Athena query result access
+- Glue crawler permissions
+- Data Catalog access
+
+IAM roles were used to ensure secure ETL processing and serverless querying across the pipeline architecture.
+
+https://docs.aws.amazon.com/iam/
+
 ---
 
 ## AWS Glue
