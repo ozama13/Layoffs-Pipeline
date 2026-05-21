@@ -44,6 +44,9 @@ Overall, this project demonstrates the complete lifecycle of a modern analytics 
 - [Appendix](#appendix)
 
 # The Data Set
+
+data/tech_layoffs_hiring_trends_elite_v2.csv
+
 The dataset used in this project focuses on workforce transformation trends within the technology industry between 2024 and 2026. It contains information related to layoffs, hiring demand, AI adoption levels, automation impact, job security, salary budget changes, remote work percentages, and workforce reduction drivers across multiple industries and countries.
 
 The dataset includes records from several major technology sectors such as Artificial Intelligence, Cloud Computing, Cybersecurity, FinTech, E-Commerce, Gaming, and Social Media. Key attributes within the dataset include company names, industries, hiring roles, layoff counts, AI replacement risk scores, automation impact ratings, open job roles, and geographic workforce trends.
