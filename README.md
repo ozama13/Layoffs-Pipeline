@@ -163,7 +163,7 @@ Additional source code, SQL queries, and ETL scripts used throughout the project
 # Demo
 
 ## Architecture
-![Architecture] (images/LayoffArchitecture.png)
+![Architecture](images/LayoffArchitecture.png)
 
 ### Amazon S3 Storage
 ![Bucket](images/LayoffBucket1.png)
