@@ -12,36 +12,37 @@ Overall, this project demonstrates the complete lifecycle of a modern analytics 
 
 # Contents
 
-- [Introduction](#introduction)
+- [Introduction & Goals](#introduction--goals)
+
 - [The Data Set](#the-data-set)
 
-- [Technology Stack](#technology-stack)
-  - [Cloud Storage](#cloud-storage)
-  - [Data Transformation](#data-transformation)
-  - [SQL Querying](#sql-querying)
-  - [Business Intelligence & Visualization](#business-intelligence--visualization)
+- [Used Tools](#used-tools)
+  - [Amazon S3](#amazon-s3)
+  - [AWS Glue](#aws-glue)
+  - [Amazon Athena](#amazon-athena)
+  - [Power BI](#power-bi)
+  - [SQL](#sql)
+  - [Python / PySpark](#python--pyspark)
 
-- [Architecture & Pipeline](#architecture--pipeline)
-  - [Raw Data Ingestion](#raw-data-ingestion)
-  - [ETL & Data Processing](#etl--data-processing)
-  - [Athena Query Layer](#athena-query-layer)
-  - [Power BI Dashboard Development](#power-bi-dashboard-development)
+- [Pipeline Components](#pipeline-components)
+  - [Connect](#connect)
+  - [Buffer](#buffer)
+  - [Processing](#processing)
+  - [Storage](#storage)
+  - [Visualization](#visualization)
 
-- [Dashboard Pages](#dashboard-pages)
-  - [Workforce Analysis Overview](#workforce-analysis-overview)
-  - [Workforce Automation Insights](#workforce-automation-insights)
-  - [Tech Hiring Market Analysis](#tech-hiring-market-analysis)
-
-- [Key Insights](#key-insights)
+- [Pipelines](#pipelines)
 
 - [Demo](#demo)
+  - [Architecture Diagram](#architecture)
+  - [AWS Pipeline](#aws-pipeline)
+  - [Power BI Dashboard](#power-bi-dashboard)
 
 - [Conclusion](#conclusion)
 
-- [Future Improvements](#future-improvements)
+- [Follow Me On](#follow-me-on)
 
 - [Appendix](#appendix)
-
 
 # The Data Set
 The dataset used in this project focuses on workforce transformation trends within the technology industry between 2024 and 2026. It contains information related to layoffs, hiring demand, AI adoption levels, automation impact, job security, salary budget changes, remote work percentages, and workforce reduction drivers across multiple industries and countries.
