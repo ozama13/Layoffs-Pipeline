@@ -11,7 +11,6 @@ To support the analytics workflow, multiple cloud and business intelligence tech
 Overall, this project demonstrates the complete lifecycle of a modern analytics pipeline, from cloud-based data engineering and transformation to interactive data visualization and executive reporting. The final solution provides a scalable framework for analyzing workforce and labor market trends while showcasing practical skills in cloud technologies, SQL analytics, ETL workflows, and business intelligence development.
 
 # Contents
-# Contents
 
 - [Introduction](#introduction)
 - [The Data Set](#the-data-set)
