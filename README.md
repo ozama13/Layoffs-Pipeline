@@ -150,7 +150,7 @@ This project uses a batch-processing analytics pipeline to transform raw workfor
 
 The workflow begins by uploading raw CSV workforce datasets into Amazon S3 cloud storage. AWS Glue is then used to crawl, catalog, and transform the raw data into optimized Parquet format for improved performance and scalability. The transformed datasets are stored in a curated S3 layer and queried using Amazon Athena through SQL-based analysis.
 
-Once the curated data is validated in Athena, Power BI connects to the query layer to build interactive dashboards focused on layoffs, hiring demand, AI adoption, automation impact, and workforce trends.
+Once the curated data is validated in Athena, Power BI connects to the query layer via access tokens to build interactive dashboards focused on layoffs, hiring demand, AI adoption, automation impact, and workforce trends.
 
 The pipeline architecture was designed to simulate a modern cloud-based analytics workflow by combining:
 - Cloud storage
