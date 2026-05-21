@@ -178,10 +178,10 @@ Additional source code, SQL queries, and ETL scripts used throughout the project
 ## Power BI Dashboard
 
 ### Workforce Analysis Overview
-![Overview]()
+![Overview](images/WorkforceAnalysisOverview.png)
 
 ### Workforce Automation Insights
-![Automation](dashboard/screenshots/dashboard2.png)
+![Automation](images/WorkforceAutomationInsights.png)
 
 ### Tech Hiring Market Analysis
 ![Hiring](images/Hiring and Workforce Trends.png)
