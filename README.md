@@ -35,7 +35,6 @@ Overall, this project demonstrates the complete lifecycle of a modern analytics 
 
 - [Demo](#demo)
   - [Architecture Diagram](#architecture)
-  - [AWS Pipeline](#aws-pipeline)
   - [Power BI Dashboard](#power-bi-dashboard)
 
 - [Conclusion](#conclusion)
@@ -159,15 +158,16 @@ Additional source code, SQL queries, and ETL scripts used throughout the project
 # Demo
 
 ## Architecture
-
-
-## AWS Pipeline
+![Architecture](images/LayoffArchitecture.png)
 
 ### Amazon S3 Storage
-![S3](dashboard/screenshots/s3.png)
+![S3](images/LayoffBucket.png)
 
 ### AWS Glue ETL
-![Glue](dashboard/screenshots/glue-job.png)
+![Glue](images/GlueRole.png)
+![Glue](images/GlueCrawlers.png)
+![Glue](images/images/VisualETL.png)
+
 
 ### Athena SQL Queries
 ![Athena](dashboard/screenshots/athena-query.png)
@@ -175,35 +175,13 @@ Additional source code, SQL queries, and ETL scripts used throughout the project
 ## Power BI Dashboard
 
 ### Workforce Analysis Overview
-![Overview](dashboard/screenshots/dashboard1.png)
+![Overview]()
 
 ### Workforce Automation Insights
 ![Automation](dashboard/screenshots/dashboard2.png)
 
 ### Tech Hiring Market Analysis
-![Hiring](dashboard/screenshots/dashboard3.png)
-
-## AWS Pipeline
-
-### Amazon S3 Storage
-![S3](dashboard/screenshots/s3.png)
-
-### AWS Glue ETL
-![Glue](dashboard/screenshots/glue-job.png)
-
-### Athena SQL Queries
-![Athena](dashboard/screenshots/athena-query.png)
-
-## Power BI Dashboard
-
-### Workforce Analysis Overview
-![Overview](dashboard/screenshots/dashboard1.png)
-
-### Workforce Automation Insights
-![Automation](dashboard/screenshots/dashboard2.png)
-
-### Tech Hiring Market Analysis
-![Hiring](dashboard/screenshots/dashboard3.png)
+![Hiring](images/Hiring and Workforce Trends.png)
 
 # Conclusion
 
