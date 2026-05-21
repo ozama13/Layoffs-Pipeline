@@ -161,19 +161,19 @@ Additional source code, SQL queries, and ETL scripts used throughout the project
 # Demo
 
 ## Architecture
-![Architecture](images/LayoffArchitecture.png)
+![Architecture] (images/LayoffArchitecture.png)
 
 ### Amazon S3 Storage
-![S3](images/LayoffBucket.png)
+![S3] (images/LayoffBucket.png)
 
 ### AWS Glue ETL
-![Glue](images/GlueRole.png)
-![Glue](images/GlueCrawlers.png)
-![Glue](images/images/VisualETL.png)
+![Glue] (images/GlueRole.png)
+![Glue] (images/GlueCrawlers.png)
+![Glue] (images/images/VisualETL.png)
 
 
 ### Athena SQL Queries
-![Athena](dashboard/screenshots/athena-query.png)
+![Athena] (dashboard/screenshots/athena-query.png)
 
 ## Power BI Dashboard
 
